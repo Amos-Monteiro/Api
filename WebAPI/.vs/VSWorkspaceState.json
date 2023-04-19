@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAPI",
+    "\\WebAPI\\Context",
+    "\\WebAPI\\Controllers",
+    "\\WebAPI\\Models",
+    "\\WebAPI\\Repositories"
+  ],
+  "SelectedNode": "\\WebAPI\\Models\\Livro.cs",
+  "PreviewInSolutionExplorer": false
+}
